@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Web Enumeration",
+    "description": "What type of Web Enumeration involves folders and files?",
+    "hint": "This enumeration type usually involves scanning the directories and files for accessable paths in the URL.",
+    "answers": [
+      "directory scanning",
+      "directory enumeration",
+      "dir scanning",
+      "dir enumeration"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Networking Scanning",
+    "description": "What software do you use for scanning networks",
+    "hint": "Also refered to as network mapper",
+    "answers": ["nmap", "zenmap"]
+  },
+  {
+    "id": 3,
+    "name": "Web Exploiting",
+    "description": "What's the most common web vulnerability",
+    "hint": "Allows you to execute javascript on a web page.",
+    "answers": ["cross site scripting", "xss"]
+  },
+  {
+    "id": 4,
+    "name": "Security Measures",
+    "description": "How do you prevent Cross Site Scripting",
+    "hint": "Allows you to execute javascript on a web page.",
+    "answers": [
+      "check user input",
+      "validation",
+      "input validation",
+      "sanitization",
+      "escaping",
+      "encoding",
+      "html encoding",
+      "html escaping",
+      "html sanitization",
+      "html validation",
+      "input sanitization",
+      "input escaping",
+      "input encoding"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Cross Site Scripting",
+    "description": "What code is used to make Cross Site Scripting",
+    "hint": "Allows you to execute javascript on a web page.",
+    "answers": ["java script", "js", "javascript"]
+  },
+  {
+    "id": 6,
+    "name": "Web Server",
+    "description": "what the most common web server software used",
+    "hint": "Allows you to execute javascript on a web page.",
+    "answers": ["apache", "apache2"]
+  }
+]
